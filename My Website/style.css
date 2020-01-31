@@ -1,0 +1,124 @@
+<style>
+	body {
+	    background: url(http://static.tumblr.com/2a490f61086d686988103f8f5207d2cb/pe2tr1i/MQfn6czlc/tumblr_static_9rpv0lq9v400g0kc8008s4ko8.png);
+		font-family:Bookman Old Style,Century,Dejavu Serif,serif;
+		font-size:15px;
+		overflow:auto;
+	}
+	h1,h2,h3 {
+	text-align:center;
+	padding-left: 2%;
+	color:#990066;
+    }
+	p{
+	 padding:4%;
+	 color:#990066;
+	}
+	img{
+	text-align:center;
+	max-width:100%;
+	height:auto;
+	width:auto;
+	}
+	#wrapper{
+	  margin:0 auto;
+	  max-width:1100%;
+	  width:96%;
+	  background:url(http://static.tumblr.com/2a490f61086d686988103f8f5207d2cb/pe2tr1i/MQfn6czlc/tumblr_static_9rpv0lq9v400g0kc8008s4ko8.png);
+	  border:1px solid #808080;
+	  border: radius:3px;
+	  box-shadow: 0 0 10px 0px rgba(12,3,20,1)
+	}
+	header{
+	  width:98%;
+	  min-height: 125px;
+	  padding:5px;
+	  text-align:center;
+	}
+	nav ul{
+	  list-style:none;
+	  margin:0;
+	  padding-left:50px;
+	}
+	nav ul li{
+	  float:left;
+	  border:1px solid #808080;
+	  width:15%;
+	}
+	
+	nav ul li a {
+	  background: #C0C0C0;
+	  display: block;
+	  padding: 4% 18%;
+	  font-weight:bold;
+	  font-size:16px;
+	  color:#990066;
+	  text-decoration:none;
+	  text-align:center;
+	}
+     nav ul li a:hover,nav ul li.active a{
+	   background-color:#808080;
+	   
+	 }
+	.banner img {
+	   width:100%;
+	   border-top:1px solid #C0C0C0;
+	   border-bottom:1px solid #C0C0C0;
+	   
+	}
+	.clerfix{
+	  clear:both;
+	}
+	.left-col{
+	  width:55%;
+	  float:left;
+	  margin: -2% 1% 1% 1%;
+	  
+	}
+	.sidebar{
+	  width:40%;
+	  float:right;
+	  margin: 1%;
+	  text-align:center;
+	  
+	}
+	.morningrestaurant{
+	  float:left;
+	  margin:0 auto;
+	  width:100%;
+	  height:auto;
+	  padding:1%;
+	}
+	.section{
+	  width:16%;
+	  float:left;
+	  margin:2% 2%;
+	  text-align: center;
+	  
+	}
+	footer{
+	  background:#808080;
+	  width:100%;
+	  overflow:hidden;
+	}
+	footer p,footer h3{
+	   color:#581845;
+	}
+	footer p a{
+	   color:#581845;
+	   text-decoration:none;
+	}
+	ul{
+	   list-style-type:none;
+	   margin:0;
+	   padding:0;
+	   
+	}
+	li{
+	   display:inline;
+	}
+	ul li img{
+	  height:30px;
+	 
+	}
+</style>
